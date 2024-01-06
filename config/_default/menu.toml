@@ -16,17 +16,19 @@ url = "https://github.com/haris78866"
 icon = "brand-github"
 
 [[social]]
-identifier = "Email"
-name = "Mail"
-url = "(mailto:ariainharis151@gmail.com)"
+identifier = "github"
+name = "GitHub"
+url = "https://github.com/haris78866"
+
+[social]]
+identifier = "linkden"
+name = "Linkden"
+url = "linkedin.com/in/haris-shahzad786"
 
 [social.params]
-icon = "brand-email"
+icon = "brand-linkden"
 
 [[social]]
-identifier = "Whats app"
-name = "Whats-app"
-url = "[Call me](tel:+923486580072)"
-
-[social.params]
-icon = "brand-Whats-app"
+identifier = "linkden"
+name = "GitHub"
+url = "linkedin.com/in/haris-shahzad786"
