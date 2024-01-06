@@ -20,15 +20,3 @@ identifier = "github"
 name = "GitHub"
 url = "https://github.com/haris78866"
 
-[social]]
-identifier = "linkden"
-name = "Linkden"
-url = "linkedin.com/in/haris-shahzad786"
-
-[social.params]
-icon = "brand-linkden"
-
-[[social]]
-identifier = "linkden"
-name = "GitHub"
-url = "linkedin.com/in/haris-shahzad786"
